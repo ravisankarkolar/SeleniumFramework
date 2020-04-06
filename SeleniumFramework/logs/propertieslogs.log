@@ -1,0 +1,6 @@
+[INFO ] 2020-04-04 22:58:53.075 [main] Log4jDemo - info message
+[ERROR] 2020-04-04 22:58:53.078 [main] Log4jDemo - Error
+[WARN ] 2020-04-04 22:58:53.078 [main] Log4jDemo - warning
+[INFO ] 2020-04-05 18:49:46.992 [main] Log4jDemo - info message
+[ERROR] 2020-04-05 18:49:46.996 [main] Log4jDemo - Error
+[WARN ] 2020-04-05 18:49:46.996 [main] Log4jDemo - warning
